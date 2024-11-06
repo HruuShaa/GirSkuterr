@@ -2,6 +2,7 @@ body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
+/* КАРТИНКИ */
 .img_menu {
   height: 30px;
   display: none;
@@ -25,9 +26,12 @@ body {
   background-size: cover;
 }
 
+/* ОТСТУПЫ СЛЕВА И СПРАВА */
 .container {
   margin: 0 350px;
 }
+
+/* ГОЛОВА */
 
 .header {
   font-family: sans-serif;
